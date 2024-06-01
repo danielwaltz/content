@@ -11,3 +11,5 @@ const foo = ref('bar');
   <div>{{ foo }}</div>
 </template>
 ```
+
+This is a change.
