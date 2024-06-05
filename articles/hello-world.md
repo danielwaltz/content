@@ -1,6 +1,6 @@
 ---
 date: 2024-06-02
-status: draft
+status: published
 ---
 # Hello World
 
