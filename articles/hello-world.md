@@ -30,6 +30,8 @@ After downloading it I discovered a vibrant community marketplace and spotted a 
 
 ## Wait... really?
 
-Actually, yes! I absolutely thought there would be a catch (especially the connection between Nuxt and my GitHub repo), but truly it ended up being that simple. No doubt using a public repo made things much easier for lack of requiring authentication, but still! This was exciting to me, and this simplicity is exactly what drew me to using Nuxt in the first place.
+Actually, yes! I absolutely thought there would be a catch (especially the connection between Nuxt and my GitHub repo), but truly it ended up being that simple. No doubt using a public repo made things much easier for lack of requiring authentication, but still. This was exciting to me, and this simplicity is exactly what drew me to using Nuxt in the first place!
 
-So consider this a practice run. The first (and maybe also the last) post I have ever written.
+If you're curious about how this is implemented and maybe want to try this out for yourself, the source code for my website is available [here](https://github.com/danielwaltz/daniel-waltz)! Plus, if you would like to see specifically the changes were required when adding this to an existing Nuxt project, check out [this commit](https://github.com/danielwaltz/daniel-waltz/commit/adbe60e2b95e3a77875fe2da5e5f5e0b4b40e941#diff-5977891bf10802cdd3cde62f0355105a1662e65b02ae4fb404a27bb0f5f53a07) in particular.
+
+So consider this a practice run. The first (and maybe also the last) post I have ever written. Thanks for reading!
