@@ -1,5 +1,5 @@
 ---
-date: 2024-06-04
+date: 2024-06-04T20:00:00
 status: published
 ---
 # Hello World

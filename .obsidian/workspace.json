@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72436a405a74a348",
+        "id": "7abb6d81ee009b37",
         "type": "tabs",
         "children": [
           {
-            "id": "f1fdcff1f69d1e64",
+            "id": "9653643dccec2541",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,9 @@
                 "file": "articles/hello-world.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "hello-world"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hello-world"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "articles/hello-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hello-world"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "articles/hello-world.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hello-world"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -154,9 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1fdcff1f69d1e64",
+  "active": "9653643dccec2541",
   "lastOpenFiles": [
     "articles/hello-world.md",
-    "README.md"
+    "README.md",
+    "base-article.md",
+    "articles/typography-styles.md",
+    "2024-06-04.md",
+    "Untitled.md"
   ]
 }
