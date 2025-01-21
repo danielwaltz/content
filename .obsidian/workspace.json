@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0540a49270c0281e",
+        "id": "eaa060ae7688825f",
         "type": "tabs",
         "children": [
           {
-            "id": "494c80dfd621dfa6",
+            "id": "d83a4051ae559a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "494c80dfd621dfa6",
+  "active": "d83a4051ae559a81",
   "lastOpenFiles": [
     "articles/why-i-like-vue.md",
     "articles/hello-world.md",
