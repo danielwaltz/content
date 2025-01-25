@@ -11,13 +11,14 @@
             "id": "d83a4051ae559a81",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "articles/why-i-like-vue.md",
-                "staged": false
+                "file": "articles/typed-eslint-config.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (why-i-like-vue)"
+              "icon": "lucide-file",
+              "title": "typed-eslint-config"
             }
           }
         ]
@@ -173,9 +174,10 @@
   },
   "active": "d83a4051ae559a81",
   "lastOpenFiles": [
+    "articles/0-base-article.md",
+    "articles/typed-eslint-config.md",
     "articles/why-i-like-vue.md",
     "articles/hello-world.md",
-    "articles/0-base-article.md",
     "README.md",
     "base-article.md",
     "articles/typography-styles.md",
