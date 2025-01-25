@@ -1,6 +1,7 @@
 ---
 date: 2024-06-04T20:00:00
 status: published
+discussion: https://github.com/danielwaltz/content/discussions/1
 ---
 # Hello World
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/typed-eslint-config.md",
+                "file": "articles/hello-world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "typed-eslint-config"
+              "title": "hello-world"
             }
           }
         ]
@@ -175,9 +175,9 @@
   "active": "d83a4051ae559a81",
   "lastOpenFiles": [
     "articles/0-base-article.md",
-    "articles/typed-eslint-config.md",
-    "articles/why-i-like-vue.md",
     "articles/hello-world.md",
+    "articles/why-i-like-vue.md",
+    "articles/typed-eslint-config.md",
     "README.md",
     "base-article.md",
     "articles/typography-styles.md",

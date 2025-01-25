@@ -1,6 +1,7 @@
 ---
 date: 2025-01-18T12:00:00
 status: published
+discussion: https://github.com/danielwaltz/content/discussions/2
 ---
 # Why I Like Vue
 
